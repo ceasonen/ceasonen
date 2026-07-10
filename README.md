@@ -30,7 +30,7 @@ Looking for a PhD in either area.
 | **IJCAI 2026** · Oral | **OrthKD** — clinical knowledge distillation | Co-first author |
 | **ICANN 2026** | **CapeRAG** — budgeted RAG with counter-evidence | Corresponding author |
 | **IJCNN 2026** | Symbolic scene descriptions for text-only LLMs | Corresponding author |
-| **ACM MM 2026** | Open-vocabulary audio-visual localization | Co-first author · under review |
+| **ACM MM 2026** · Oral | **If You Hear It, Help Find It** — open-vocabulary audio-visual localization | Co-first author |
 
 → [Full list](https://ceasonen.github.io/publications)
 
@@ -50,8 +50,8 @@ Looking for a PhD in either area.
 
 #### Recent
 
+- **2026.07** — If You Hear It, Help Find It accepted to ACM MM 2026 (oral)
 - **2026.06** — Provincial 1st Prize, China Robot & AI Competition
-- **2026.05** — Two ACM MM papers scored 4/4/4/4/3 and 4/4/3/2
 - **2026.04** — OrthKD accepted to IJCAI 2026 (oral)
 - **2026.03** — Visual reasoning paper accepted to IJCNN 2026
 
