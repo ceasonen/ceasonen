@@ -36,7 +36,7 @@ Looking for a PhD in either area.
 
 #### Awards
 
-- **2025** — Provincial 1st Prize, China Robot & AI Competition
+- **2026** — Provincial 1st Prize, China Robot & AI Competition
 - **2025** — National 2nd Prize, Global Campus AI Algorithm Elite Competition
 - **2025** — National 3rd Prize, Embedded Chip & System Design Competition
 - **2025** — Shanghai 3rd Prize, Mathematical Modeling & Statistical Modeling
