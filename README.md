@@ -50,7 +50,7 @@ Looking for a PhD in either area 🔭
 
 #### 📌 Recent
 
-- **2026.07** — 🎉 If You Hear It, Help Find It accepted to ACM MM 2026 (oral)
+- **2026.07** — 🎉 OvOrthKD accepted to ACM MM 2026 (oral)
 - **2026.06** — 👏 Provincial 1st Prize, China Robot & AI Competition
 - **2026.04** — 🎉 OrthKD accepted to IJCAI 2026 (oral)
 - **2026.03** — 🎉 Visual reasoning paper accepted to IJCNN 2026
