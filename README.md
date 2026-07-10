@@ -1,6 +1,6 @@
 <div align="center">
 
-### Cheng Chen · 陈成
+### Cheng Chen
 
 **Undergraduate · Electrical Engineering** · Tongji University
 
@@ -34,6 +34,17 @@ Looking for a PhD in either area.
 
 ---
 
+#### Awards
+
+- **2025** — Provincial 1st Prize, China Robot & AI Competition
+- **2025** — National 2nd Prize, Global Campus AI Algorithm Elite Competition
+- **2025** — National 3rd Prize, Embedded Chip & System Design Competition
+- **2025** — Shanghai 3rd Prize, Mathematical Modeling & Statistical Modeling
+- **2024** — 2nd Prize, National College Student Mathematics Competition
+- **2023–2025** — Tongji University Outstanding Student Scholarship (×2)
+
+---
+
 #### Recent
 
 - **2026.05** — Two ACM MM papers scored 4/4/4/4/3 and 4/4/3/2
@@ -43,11 +54,3 @@ Looking for a PhD in either area.
 ---
 
 ⚽ Barça & Arsenal · football · cycling · music
-
----
-
-<div align="center">
-
-<sub>同济大学电气工程 · 多模态 AI & 可信 AI · 欢迎聊聊博士申请</sub>
-
-</div>
