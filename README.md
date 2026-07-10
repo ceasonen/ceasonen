@@ -28,7 +28,7 @@ Looking for a PhD in either area 🔭
 | Venue | Work | Role |
 | :--- | :--- | :--- |
 | **ACM MM 2026** · Oral 🎤 | **OvOrthKD** — open-vocabulary audio-visual localization | Co-first author |
-| **IJCAI 2026** · Oral 🎤 | **OrthKD** — clinical knowledge distillation | Co-first author |
+| **IJCAI 2026** · Oral 🎤 | **OrthKD** — clinical knowledge distillation | Co-first author (listed first) |
 | **IJCNN 2026** | Symbolic scene descriptions for text-only LLMs | Corresponding author |
 | **ICANN 2026** | **CapeRAG** — budgeted RAG with counter-evidence | Corresponding author |
 
