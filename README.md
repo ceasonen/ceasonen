@@ -28,11 +28,10 @@ Looking for a PhD in either area 🔭
 | Venue | Work | Role |
 | :--- | :--- | :--- |
 | **ACM MM 2026** · Oral 🎤 | **OvOrthKD** — open-vocabulary audio-visual localization | Co-first author |
-| **IJCAI 2026** · Oral 🎤 | **OrthKD** — clinical knowledge distillation | Co-first author (listed first) |
-| **IJCNN 2026** | Symbolic scene descriptions for text-only LLMs | Corresponding author |
-| **ICANN 2026** | **CapeRAG** — budgeted RAG with counter-evidence | Corresponding author |
+| **IJCAI 2026** · Oral 🎤 | **OrthKD** — clinical knowledge distillation | Co-first author |
+| **NeurIPS 2026** | Neural-operator risk assessment | First author (under review) |
 
-→ [Full list](https://ceasonen.github.io/publications)
+→ [Full list](https://ceasonen.github.io/publications) *(IJCNN, ICANN, …)*
 
 ---
 
@@ -53,7 +52,7 @@ Looking for a PhD in either area 🔭
 - **2026.07** — 🎉 OvOrthKD accepted to ACM MM 2026 (oral)
 - **2026.06** — 👏 Provincial 1st Prize, China Robot & AI Competition
 - **2026.04** — 🎉 OrthKD accepted to IJCAI 2026 (oral)
-- **2026.03** — 🎉 Visual reasoning paper accepted to IJCNN 2026
+- **2026.04** — 📨 NeurIPS 2026 submission (first author)
 
 ---
 
