@@ -7,9 +7,7 @@
 *Multimodal AI · Trustworthy AI*
 
 [![Homepage](https://img.shields.io/badge/Homepage-ceasonen.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ceasonen.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=X92zQ68AAAAJ&hl=zh-CN)
 [![Email](https://img.shields.io/badge/Email-2351445%40tongji.edu.cn-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2351445@tongji.edu.cn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheng%20Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-chen-012a83378)
 
 </div>
 
