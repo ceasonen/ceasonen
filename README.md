@@ -60,7 +60,7 @@
     </td>
     <td width="45%" valign="top" align="center">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=ceasonen&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=FFFFFF" width="100%" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=ceasonen&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=FFFFFF" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -132,7 +132,7 @@
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceasonen&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ceasonen&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
